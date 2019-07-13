@@ -1,0 +1,7 @@
+[console_scripts]
+pretty = simplepkg.pretty_main:main
+
+[printing_types]
+star = simplepkg.pretty_printer:pretty_star_printing
+tilde = simplepkg.pretty_printer:pretty_tilde_printing
+

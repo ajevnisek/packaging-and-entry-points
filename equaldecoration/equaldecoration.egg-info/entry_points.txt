@@ -1,0 +1,3 @@
+[printing_types]
+equal = equaldecoration.equaldecoration:pretty_eqauls_printing
+

@@ -1,0 +1,8 @@
+setup.py
+equaldecoration/__init__.py
+equaldecoration/equaldecoration.py
+equaldecoration.egg-info/PKG-INFO
+equaldecoration.egg-info/SOURCES.txt
+equaldecoration.egg-info/dependency_links.txt
+equaldecoration.egg-info/entry_points.txt
+equaldecoration.egg-info/top_level.txt

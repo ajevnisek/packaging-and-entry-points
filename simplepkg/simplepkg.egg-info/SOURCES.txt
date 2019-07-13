@@ -1,0 +1,10 @@
+README.md
+setup.py
+simplepkg/__init__.py
+simplepkg/pretty_main.py
+simplepkg/pretty_printer.py
+simplepkg.egg-info/PKG-INFO
+simplepkg.egg-info/SOURCES.txt
+simplepkg.egg-info/dependency_links.txt
+simplepkg.egg-info/entry_points.txt
+simplepkg.egg-info/top_level.txt
